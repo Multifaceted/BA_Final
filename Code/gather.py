@@ -30,7 +30,7 @@ def convert_to_sentiment(CAMIS):
     import pandas as pd
     
     sid = SentimentIntensityAnalyzer()
-    rest = pd.read_csv('../Qitian_Yelp/' + str(CAMIS) + '.csv', engine = 'python')
+    rest = pd.read_csv('../Data/text/' + str(CAMIS) + '.csv', engine = 'python')
     rest.dropna(subset = ['er_text'], inplace = True)
     
     avg_score = rest['er_text'].apply(lambda text: sid.polarity_scores(text)['compound']).mean()
@@ -51,7 +51,7 @@ def gather():
     """
     import pandas as pd
     
-    info = pd.read_csv('../Qitian_Yelp/info.csv', usecols = range(1, 6)).drop_duplicates()
+    info = pd.read_csv('../Data/info.csv', usecols = range(1, 6)).drop_duplicates()
     info_aval = info[ info['error_code'].isna() ]  # select observations with no missing data
     info_aval['CAMIS'] = info_aval['CAMIS'].astype(int)
     info_aval = info_aval.drop('error_code', axis = 1)
@@ -69,11 +69,11 @@ def gather():
                         .groupby(['CAMIS'])[ ['SCORE'] ].mean()
     violation_score.rename({'SCORE': 'violation_score'}, axis = 1, inplace = True)
     
-    attributes = pd.read_csv('../Qitian_Yelp/attributes.csv', index_col = 'Unnamed: 0').drop_duplicates()
+    attributes = pd.read_csv('../Data/attributes.csv', index_col = 'Unnamed: 0').drop_duplicates()
     
     # Merge Data.
     info_aval = info_aval.join(attributes, how = 'outer') \
                          .join(violation_score, how = 'left')
     
     # Write out aggregated data to csv file.
-    info_aval.to_csv('../Qitian_gathered_data.csv')
+    info_aval.to_csv('../Data/gathered_data.csv')

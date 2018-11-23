@@ -39,7 +39,7 @@ def fetch_restaurant(restaurant_name, location_name):
     proxies = {'http': 'http://qitianma:1q2w3e4r@us-wa.proxymesh.com:31280',
                'https': 'http://qitianma:1q2w3e4r@us-wa.proxymesh.com:31280'}
     
-    api = ProxyCrawlAPI({ 'token': 'pDH_j04XdH5SzYFv1LPJ1g' })
+    api = ProxyCrawlAPI({ 'token': '' })
     
     # set error_code to be normal
     error_code = 0
@@ -115,44 +115,47 @@ def fetch_restaurant(restaurant_name, location_name):
         values = head.find_all('dd')
     except:
         pass
-    attributes = pd.Series(np.full(33, np.nan), index = ['Accepts Credit Cards',
-                                                         'Accepts Bitcoin',
-                                                         'Accepts Insurance',
-                                                         'Alcohol',
-                                                         'Appointment Only',
-                                                         'Caters',
-                                                         'Coat Check',
-                                                         'Delivers',
-                                                         'Dogs Allowed',
-                                                         'Hair Types Specialized In',
-                                                         'Happy Hour',
-                                                         'Has TV',
-                                                         'Bike Parking',
-                                                         'Good for',
-                                                         'Outdoor Seating',
-                                                         'Parking',
-                                                         'Smoking Allowed',
-                                                         'Take-out',
-                                                         'Takes Reservations',
-                                                         'Waiter Service',
-                                                         'Wheelchair Accessible',
-                                                         'Wi-Fi',
-                                                         'Opened 24hrs',
-                                                         'Gender Neutral Restrooms',
-                                                         'Ambience',
-                                                         'Attire',
-                                                         'Best Nights',
-                                                         'Good For Dancing',
-                                                         'Good For Groups',
-                                                         'Good For Kids',
-                                                         'Good For Meals Served',
-                                                         'Music',
-                                                         'Noise Level',
-                                                         'Price Range'
-                                                        ])
+    index = ['Accepts Credit Cards',
+             'Accepts Bitcoin',
+             'Accepts Insurance',
+             'Accepts Apple Pay',
+             'Alcohol',
+             'By Appointment Only',
+             'Caters',
+             'Coat Check',
+             'Delivery',
+             'Dogs Allowed',
+             'Hair Types Specialized In',
+             'Happy Hour',
+             'Has TV',
+             'Outdoor Seating',
+             'Parking',
+             'Bike Parking',
+             'Smoking Allowed',
+             'Take-out',
+             'Takes Reservations',
+             'Drive-Thru',
+             'Waiter Service',
+             'Wheelchair Accessible',
+             'Wi-Fi',
+             'Opened 24hrs',
+             'Gender Neutral Restrooms',
+             'Ambience',
+             'Attire',
+             'Best Nights',
+             'Good For Dancing',
+             'Good For Groups',
+             'Good For Kids',
+             'Good For',
+             'Music',
+             'Noise Level',
+             'Price Range',
+             'Has Pool Table']
+    index = [x.lower() for x in index]
+    attributes = pd.Series(np.full(len(index), np.nan), index = index)
     for name, value in zip(names, values):
-        if name.get_text().strip().title() in attributes:
-            attributes[name.get_text().strip().title()] = value.get_text().strip()
+        if name.get_text().strip().lower() in attributes:
+            attributes[name.get_text().strip().lower()] = value.get_text().strip()
     
     
     attributes = attributes.append(pd.Series({'price_range': price_range, 
