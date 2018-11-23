@@ -51,8 +51,8 @@ def gather():
     """
     import pandas as pd
     
-    info = pd.read_csv('../Data/info.csv', usecols = range(1, 6)).drop_duplicates()
-    info_aval = info[ info['error_code'].isna() ]  # select observations with no missing data
+    info = pd.read_csv('../Data/info.csv', usecols = range(1, 6)).drop_duplicates(subset = ['CAMIS', 'error_code'])
+    info_aval = info[ info['error_code'].isnull() ]  # select observations with no missing data
     info_aval['CAMIS'] = info_aval['CAMIS'].astype(int)
     info_aval = info_aval.drop('error_code', axis = 1)
     
