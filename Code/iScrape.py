@@ -115,7 +115,7 @@ def fetch_restaurant(restaurant_name, location_name):
         values = head.find_all('dd')
     except:
         pass
-    attributes = pd.Series(np.full(30, np.nan), index = ['Accepts Credit Cards',
+    attributes = pd.Series(np.full(33, np.nan), index = ['Accepts Credit Cards',
                                                          'Accepts Bitcoin',
                                                          'Accepts Insurance',
                                                          'Alcohol',
@@ -123,10 +123,12 @@ def fetch_restaurant(restaurant_name, location_name):
                                                          'Caters',
                                                          'Coat Check',
                                                          'Delivers',
-                                                         'Dogs Allowed'
+                                                         'Dogs Allowed',
                                                          'Hair Types Specialized In',
                                                          'Happy Hour',
-                                                         'TV',
+                                                         'Has TV',
+                                                         'Bike Parking',
+                                                         'Good for',
                                                          'Outdoor Seating',
                                                          'Parking',
                                                          'Smoking Allowed',
@@ -136,7 +138,7 @@ def fetch_restaurant(restaurant_name, location_name):
                                                          'Wheelchair Accessible',
                                                          'Wi-Fi',
                                                          'Opened 24hrs',
-                                                         'Gender Neutral Bathrooms'
+                                                         'Gender Neutral Restrooms',
                                                          'Ambience',
                                                          'Attire',
                                                          'Best Nights',
@@ -149,8 +151,8 @@ def fetch_restaurant(restaurant_name, location_name):
                                                          'Price Range'
                                                         ])
     for name, value in zip(names, values):
-        if name.get_text().strip().capitalize() in attributes:
-            attributes[name.get_text().strip().capitalize()] = value.get_text().strip()
+        if name.get_text().strip().title() in attributes:
+            attributes[name.get_text().strip().title()] = value.get_text().strip()
     
     
     attributes = attributes.append(pd.Series({'price_range': price_range, 
