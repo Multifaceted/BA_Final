@@ -1,0 +1,657 @@
+,DBA,sentiment_score,accepts_credit_cards,accepts_apple_pay,alcohol,caters,delivery,has_tv,outdoor_seating,parking,bike_parking,take-out,takes_reservations,wi-fi,overall_rating,violation_score,price_range,noise_level
+40362098,HARRIET'S KITCHEN,0.3936188405797101,Yes,No,Beer & Wine Only,No,Yes,No,No,Yes,Yes,Yes,No,No,3.0,15.6,Moderate,Average
+40364389,OLD TOWN BAR & RESTAURANT,0.6085585,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,30.5,Moderate,Average
+40365166,CORNER BISTRO,0.648874,No,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,No,No,3.5,19.75,Inexpensive,Average
+40365871,NEARY'S PUB,0.7543971830985916,Yes,No,Full Bar,No,Yes,No,No,Yes,No,Yes,Yes,Yes,4.0,12.0,Moderate,Average
+40365968,NANCY WHISKEY PUB,0.677867,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,4.0,9.5,Inexpensive,Average
+40367373,JACKSON HOLE,0.6039335,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.5,9.0,Moderate,Average
+40368271,CHERRY TAVERN,0.5171312499999999,No,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,24.33333333333333,Inexpensive,Loud
+40368338,BRADY'S BAR,0.6955189655172413,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,No,No,3.5,12.0,Inexpensive,Average
+40368374,JIMMY'S CORNER,0.586889,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,4.0,13.25,Inexpensive,Average
+40369165,REIF'S TAVERN,0.7889933333333333,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,No,Yes,4.0,15.8,Inexpensive,Average
+40369810,PETE'S TAVERN,0.667795,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3.5,6.666666666666668,Moderate,Average
+40369940,THE NEW AMITY RESTAURANT,0.6016328571428571,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,3.5,14.5,Moderate,Average
+40370168,EAR INN,0.703056,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,No,4.0,22.0,Moderate,Average
+40371454,WEST BANK CAFE,0.7882359999999999,Yes,No,Full Bar,No,No,No,No,Yes,Yes,Yes,Yes,No,4.0,13.25,Moderate,Average
+40372466,MURALS ON 54/RANDOLPH'S,0.2902823529411765,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,2.0,41.6,Moderate,Quiet
+40375839,COZY SOUP & BURGER,0.389489,Yes,No,Beer & Wine Only,No,Yes,Yes,No,Yes,Yes,Yes,No,No,3.0,11.0,Moderate,Average
+40378874,TERRA BLUES,0.6935322033898305,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,4.0,12.25,Moderate,Loud
+40379920,E.A.T. CAFE,0.2299315,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,2.0,14.75,Moderate,Average
+40380432,THE BITTER END,0.4268825,Yes,Yes,Full Bar,No,No,No,No,Yes,Yes,No,No,Yes,3.0,10.333333333333334,Moderate,Loud
+40383511,BRANDY'S PIANO BAR,0.5259215,Yes,No,Full Bar,No,No,No,No,Yes,No,No,No,No,3.5,23.25,Moderate,Loud
+40383931,FLASH DANCERS,0.4413051948051947,Yes,Yes,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,2.5,11.666666666666664,Pricey,Average
+40385161,AUTOMATIC SLIMS,0.56406091954023,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,No,No,3.5,25.66666666666667,Moderate,Loud
+40386556,WESTSIDE RESTAURANT,0.3761865497076024,Yes,No,Beer & Wine Only,No,Yes,No,No,Yes,Yes,Yes,No,No,2.5,13.75,Moderate,Average
+40387990,T.G.I. FRIDAY'S,-0.114724,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,No,1.5,10.25,Moderate,Average
+40388578,DIVE BAR,0.79132,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,4.0,12.0,Moderate,Average
+40391060,LUKE'S BAR & GRILL,0.5964157024793391,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.0,14.0,Moderate,Average
+40391979,SUTTON CAFE RESTAURANT,0.5731195000000001,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,No,No,3.5,13.5,Moderate,Average
+40392668,LUCYS,0.6119937500000001,No,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,7.666666666666668,Inexpensive,Average
+40393558,FITZGERALD'S PUB,0.6617917525773196,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,12.666666666666664,Moderate,Average
+40393725,TRIBECA GRILL,0.7052655000000001,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3.5,11.75,Pricey,Average
+40394566,MEMBERS DINING ROOM @ THE MET MUSEUM,0.7628010000000001,Yes,No,Full Bar,Yes,No,No,No,Yes,Yes,No,Yes,Yes,3.5,10.25,Pricey,Quiet
+40395093,COYOTE UGLY,0.362694,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,2.5,22.75,Inexpensive,Very Loud
+40396494,CORNER CAFE AND BAKERY,0.5401075,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.5,26.5,Moderate,Average
+40396532,METRO DINER,0.390225,Yes,No,Beer & Wine Only,No,Yes,No,No,Yes,No,Yes,No,No,3.0,13.5,Moderate,Average
+40397624,LE MIRAGE CAFE,0.4961567567567567,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,3.0,16.5,Moderate,Average
+40398561,TOM AND JERRY BAR,0.7710020000000001,No,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,4.0,13.0,Moderate,Loud
+40398578,DYCKMAN BAR,0.5748463414634146,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,No,No,3.0,14.666666666666664,Moderate,Loud
+40398690,DOC HOLIDAYS,0.5675465000000001,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,No,Yes,3.5,8.333333333333334,Inexpensive,Loud
+40399057,9TH AVE SALOON,0.5747337837837837,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,3.5,17.25,Inexpensive,Average
+40399910,PIECES,0.6392567164179104,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,3.5,12.0,Inexpensive,Average
+40400185,CAFE BEYOND,0.4642851851851852,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,3.0,19.75,Moderate,Average
+40401104,1020 BAR,0.5348608,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,21.25,Inexpensive,Loud
+40401173,BIG BAR,0.6982,No,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,4.0,11.25,Moderate,Average
+40401422,BROADWAY DIVE,0.6939015748031495,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,4.0,10.0,Inexpensive,Average
+40401453,JAKE'S DILEMMA,0.6050274999999999,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,3.5,7.0,Moderate,Loud
+40401912,O'NIEALS,0.6960225,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,4.0,11.5,Moderate,Average
+40401934,BROOKLYN DINER,0.594928,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.0,3.6666666666666665,Moderate,Average
+40402755,THE UNIVERSITY CLUB,0.8396717948717949,Yes,No,Full Bar,Yes,No,Yes,Yes,No,Yes,No,Yes,No,4.0,18.0,Pricey,Quiet
+40403579,THE TAP ROOM,0.6763776923076924,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,Yes,3.5,7.666666666666668,Moderate,Loud
+40403586,THE UNIVERSITY CLUB,0.8396717948717949,Yes,No,Full Bar,Yes,No,Yes,Yes,No,Yes,No,Yes,No,4.0,24.8,Pricey,Quiet
+40511479,CIBAR,0.7233964999999999,Yes,No,Full Bar,No,No,No,Yes,Yes,Yes,No,Yes,No,4.0,19.0,Pricey,Average
+40512297,BARRACUDA BAR,0.5326016666666666,No,No,Full Bar,No,No,Yes,No,Yes,No,No,No,No,3.0,18.25,Moderate,Average
+40512852,DOC WATSONS,0.647568,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,14.25,Moderate,Average
+40513164,MCGEES PUB,0.6670794999999999,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.5,19.25,Moderate,Average
+40513184,ACE BAR,0.6395,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.5,18.33333333333333,Inexpensive,Loud
+40513609,SKYLIGHT DINER,0.2792365,Yes,No,Beer & Wine Only,No,Yes,Yes,No,Yes,Yes,Yes,No,No,3.0,16.4,Moderate,Average
+40522190,KINGS CARRIAGE HOUSE,0.8257712707182319,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,No,No,Yes,No,4.0,10.75,Moderate,Average
+40526406,CLUB MACANUDO (CIGAR BAR),0.8174366666666667,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,Yes,No,4.0,17.666666666666668,Pricey,Quiet
+40535399,VON,0.6618055000000002,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,3.5,16.0,Moderate,Average
+40536280,TRINITY PUB,0.8316632075471698,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,No,No,4.0,12.0,Moderate,Average
+40536599,OLIVE TREE,0.22377600000000003,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,2.5,26.33333333333333,Inexpensive,Average
+40537494,810 DELI & CAFE,0.2402466666666667,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,3.0,12.0,Moderate,Average
+40538766,RED EYE GRILL,0.7946645,Yes,No,Full Bar,Yes,No,No,Yes,No,No,Yes,Yes,No,3.5,11.666666666666664,Pricey,Average
+40545130,SPEEDY'S DELI,0.4901255681818182,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,3.0,20.2,Moderate,Loud
+40545741,BOB'S STEAK & CHOP HOUSE,0.8190796610169491,Yes,No,Full Bar,No,No,Yes,No,No,No,No,Yes,Yes,4.0,29.2,Pricey,Average
+40547272,DEATH & CO,0.7400154999999999,Yes,No,Full Bar,No,No,No,No,Yes,No,No,No,No,4.0,14.0,Pricey,Average
+40550666,LITE DELIGHTS,0.6753770114942528,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,4.0,15.5,Inexpensive,Average
+40553443,DISTILLED,0.751546,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,16.25,Moderate,Average
+40559633,GOTHAM CAFE (INSIDE THE WATSON HOTEL),0.12763082706766915,Yes,No,No,No,No,No,No,No,No,No,No,Yes,2.0,18.25,Moderate,Average
+40559634,TICK TOCK DINER,0.4158665000000001,Yes,No,Beer & Wine Only,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,2.5,37.0,Moderate,Average
+40559636,TRATTORIA BIANCA,0.6172259615384614,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.5,27.25,Moderate,Average
+40566482,KFC,0.04341176470588234,Yes,No,No,No,No,No,No,No,No,Yes,No,No,2.0,4.666666666666667,Inexpensive,Average
+40567533,THE THIRSTY SCHOLAR,0.5969935828877005,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,3.5,23.0,Moderate,Average
+40572098,THE SPRING LOUNGE,0.6458524999999999,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,3.5,7.0,Moderate,Average
+40573929,ARABELLE,0.6184416666666667,Yes,No,Full Bar,No,No,No,No,No,No,No,Yes,No,3.0,12.0,Pricey,Average
+40574293,LA BONBONNIERE,0.7218665,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,4.0,24.25,Inexpensive,Average
+40577676,SARABETH'S KITCHEN,0.6880879999999999,Yes,No,Full Bar,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,3.5,17.2,Moderate,Average
+40591422,THE PARLOUR,0.5952342857142857,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,No,3.0,22.5,Moderate,Average
+40592566,FRED'S,0.7481823529411763,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,4.5,7.333333333333332,Moderate,Average
+40593315,READE STREET PUB & KITCHEN,0.7228329545454546,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,Yes,3.5,10.333333333333334,Moderate,Average
+40599004,BOTANICA BAR,0.7322460000000001,Yes,No,Full Bar,No,No,No,No,Yes,No,No,No,Yes,4.0,13.0,Inexpensive,Average
+40601189,LE GLACIER,-0.1005,Yes,No,No,No,No,No,No,No,No,No,No,No,2.0,17.4,Inexpensive,Average
+40603807,JOSHUA TREE,0.5972244999999999,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,3.0,15.6,Moderate,Very Loud
+40605319,42ND STREET PIZZA DINER,0.1743026666666667,Yes,No,Beer & Wine Only,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,2.5,9.333333333333334,Moderate,Average
+40606772,GEMINI DINER,0.5588608040201006,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,3.5,11.0,Moderate,Average
+40610554,THE SUMMIT,0.8730129999999999,Yes,No,Full Bar,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,4.0,14.666666666666664,Moderate,Average
+40619544,CAFETERIA,0.6577629999999999,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,3.5,10.75,Moderate,Loud
+40621072,POINT BREAK,0.7332955,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.5,13.75,Moderate,Loud
+40638792,MERCER KITCHEN,0.6308055,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,3.5,11.5,Pricey,Average
+40645474,OLD JOHN'S LUNCHEONETTE,0.5888319148936171,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,No,No,3.5,11.666666666666664,Moderate,Quiet
+40653502,V-BAR & CAFE,0.599694,Yes,No,Beer & Wine Only,No,No,No,No,Yes,Yes,No,No,Yes,3.5,23.0,Moderate,Average
+40659211,NOSH! - COURTYARD BY MARRIOTT,0.34809,Yes,No,No,No,No,No,No,No,No,No,No,Yes,3.0,8.666666666666666,Pricey,Average
+40660748,ALTA,0.8140754999999998,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,4.0,14.666666666666664,Pricey,Loud
+40661616,SESSION 73,0.6208555,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,10.0,Moderate,Very Loud
+40664744,STARBUCKS,0.4431826923076923,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,3.5,8.666666666666666,Moderate,Average
+40665359,VIC'S,0.869599,Yes,No,Full Bar,No,No,No,Yes,Yes,No,Yes,Yes,Yes,4.0,7.333333333333332,Moderate,Average
+40666183,QUEEN VIC,0.7826973684210526,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,4.0,11.666666666666664,Inexpensive,Quiet
+40671007,PIG & WHISTLE ON 3RD,0.5669863354037267,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,3.5,18.666666666666668,Moderate,Average
+40674838,HI LIFE BAR & GRILL,0.408462,Yes,Yes,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,2.5,7.0,Moderate,Average
+40680918,ELI'S TABLE,0.8016085714285714,Yes,No,Full Bar,Yes,No,No,No,No,Yes,Yes,Yes,No,3.5,16.75,Moderate,Average
+40689838,SMOKE,0.6380857142857143,Yes,No,No,No,No,No,No,Yes,No,No,No,No,4.5,17.666666666666668,Moderate,Average
+40690019,MODERN GOURMET,0.66971,Yes,No,Beer & Wine Only,No,Yes,No,No,No,No,Yes,No,No,4.5,24.6,Inexpensive,Quiet
+40690158,FRESCO ON THE GO,0.5235094339622642,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,3.0,16.5,Moderate,Loud
+40694767,NEW YORK LUNCHEONETTE,0.622374375,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.5,18.25,Moderate,Average
+40709138,THALIA,0.6024324999999999,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,15.75,Moderate,Average
+40715372,HENRY'S,0.6825580419580419,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,4.0,21.0,Inexpensive,Quiet
+40719059,PARK BAR,0.7182415662650602,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,3.5,16.75,Moderate,Average
+40720911,ANOTHEROOM,0.7532775510204082,Yes,No,Beer & Wine Only,No,No,No,Yes,Yes,Yes,No,No,No,4.0,9.666666666666666,Moderate,Average
+40723644,TEN DEGREES,0.8351084999999999,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,No,4.0,22.25,Moderate,Average
+40723673,FAT BLACK PUSSY CAT,0.6660365000000001,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.5,7.0,Moderate,Loud
+40724274,THE WHEELTAPPER,0.514788125,Yes,No,Full Bar,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3.0,18.5,Moderate,Average
+40726811,RELIABLE FOOD,0.42772758620689655,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,3.5,18.75,Moderate,Average
+40732696,GIACOMO FINE FOODS,0.7397222222222221,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,4.0,11.5,Inexpensive,Average
+40736836,SILVER STAR RESTAURANT,0.6929750000000001,Yes,No,Beer & Wine Only,Yes,Yes,No,No,No,No,Yes,Yes,No,3.5,9.5,Moderate,Average
+40738920,GEORGE KEELEY,0.810231,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,Yes,4.0,14.75,Moderate,Average
+40746574,BAR COASTAL,0.7576750000000001,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,No,Yes,4.0,14.5,Moderate,Loud
+40750275,BROADWAY LOUNGE,0.5352076923076923,Yes,No,Full Bar,No,No,Yes,No,No,No,No,Yes,Yes,3.0,7.333333333333332,Moderate,Loud
+40750279,VIEW RESTAURANT,0.4443142857142857,Yes,No,Full Bar,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3.5,10.333333333333334,Moderate,Average
+40750612,STROKOS PIZZA DELI,0.2048549295774648,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,2.5,16.25,Inexpensive,Average
+40783655,GEORGIOS COUNTRY GRILL,0.759684,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3.5,16.25,Moderate,Average
+40798867,POSH,0.7059584415584416,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,No,Yes,3.5,7.666666666666668,Moderate,Average
+40812630,THE LOEB BOATHOUSE CENTRAL PARK,0.744925,Yes,No,Full Bar,Yes,No,No,Yes,No,Yes,No,Yes,No,3.5,22.75,Pricey,Average
+40824644,MERCURY BAR,0.6458109999999999,Yes,Yes,Full Bar,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3.5,19.6,Moderate,Average
+40829514,CLINTON STREET BAKING COMPANY,0.7943315000000001,No,No,Full Bar,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,4.0,18.25,Moderate,Average
+40831779,KOYZINA KAFE,0.4797922077922077,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.0,10.0,Moderate,Average
+40835721,IRVING FARM,0.5072025000000001,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,3.5,13.0,Moderate,Average
+40851227,THE MAGICIAN,0.7091530487804877,No,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,3.5,14.666666666666664,Inexpensive,Average
+40855992,FAMOUS BAGEL BUFFET,0.5759863636363637,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,4.0,17.2,Inexpensive,Quiet
+40856729,CRIF DOGS / PLEASE DON'T TELL,0.7810595,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,No,4.0,16.25,Pricey,Average
+40861252,SWEET & VICIOUS,0.469091,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,No,No,3.0,6.0,Moderate,Very Loud
+40864264,THE VILLAGE TAVERN,0.4406119266055046,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,3.0,14.0,Moderate,Very Loud
+40866977,CAFE MAE MAE,0.7940480519480521,Yes,No,Full Bar,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3.5,6.25,Moderate,Average
+40867057,TIM HORTONS,0.18442,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,2.5,7.5,Inexpensive,Loud
+40868717,ALICE'S TEA CUP,0.7604365,Yes,Yes,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,3.5,22.6,Moderate,Average
+40879015,KITCHENETTE UPTOWN,0.608733,Yes,No,Beer & Wine Only,No,Yes,No,No,Yes,Yes,Yes,Yes,No,3.5,8.333333333333334,Moderate,Average
+40879245,GRAND HYATT NEW YORK HOTEL,0.4925525000000001,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,3.0,31.0,Pricey,Average
+40890184,SNAFU,0.6830960000000001,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,Yes,Yes,3.5,19.2,Inexpensive,Average
+40897685,TSQ BRASSERIE,0.0199395,Yes,No,Full Bar,No,No,Yes,No,No,No,Yes,Yes,No,2.0,33.2,Moderate,Average
+40906725,WASHINGTON SQUARE CAFE,0.9928,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,3.0,7.666666666666668,Inexpensive,Average
+40914459,VILLAGE UNDERGROUND,0.7800195,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,No,4.0,9.666666666666666,Moderate,Loud
+40922983,COSI,0.44099493670886064,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,3.0,11.0,Inexpensive,Average
+40923811,BLACK DOOR,0.6916151315789473,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,3.5,13.25,Moderate,Very Loud
+40932307,FIDDLESTICKS,0.6686350000000001,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.0,13.25,Moderate,Loud
+40936973,RANDOM HOUSE,0.89405,Yes,No,No,No,No,No,No,No,Yes,No,No,No,5.0,12.5,Moderate,Average
+40937036,PENELOPE,0.6044889999999999,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3.5,27.5,Moderate,Average
+40937349,JAKE'S SALOON,0.4746913978494624,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,No,2.5,13.25,Moderate,Average
+40938384,MOCA BAR & LOUNGE,0.5773673076923077,Yes,Yes,Full Bar,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,3.0,15.75,Moderate,Average
+40938961,CIELO,0.25575000000000003,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,3.0,12.0,Pricey,Very Loud
+40942438,SKY TERRACE BAR,0.6947519480519481,Yes,Yes,Full Bar,No,No,No,Yes,Yes,Yes,No,No,No,3.5,7.0,Pricey,Average
+40942444,HUDSON BAR,0.41251875,Yes,No,Full Bar,No,No,Yes,Yes,No,No,No,Yes,No,3.0,25.0,Moderate,Average
+40943583,THE PRESS BOX,0.7119169642857143,Yes,No,Full Bar,No,Yes,Yes,No,Yes,No,Yes,No,Yes,3.5,20.25,Moderate,Average
+40943615,OTTO'S SHRUNKEN HEAD,0.7328315000000001,No,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,4.0,11.5,Moderate,Loud
+40946956,B-SIDE,0.6659244444444444,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,4.0,11.0,Inexpensive,Average
+40948625,SUMMER GARDEN,0.4653736842105263,Yes,No,Full Bar,No,No,No,Yes,No,No,No,Yes,No,3.0,3.6666666666666665,Pricey,Average
+40951884,GUY & GALLARD,0.08122727272727273,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,2.5,15.666666666666664,Inexpensive,Quiet
+40953735,CUCINA AND CO.,0.3421019230769231,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,3.0,11.75,Moderate,Average
+40957421,RARE BAR & GRILL,0.6700535000000001,Yes,No,Full Bar,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,3.5,19.6,Moderate,Average
+40957772,NURSE BETTIE,0.7894855,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,No,4.0,10.0,Moderate,Average
+40958613,CITY DINER,0.5086055,Yes,Yes,Full Bar,No,Yes,No,No,Yes,Yes,Yes,No,No,3.0,9.666666666666666,Moderate,Average
+40965997,BONSIGNOUR,0.6484987012987012,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,4.0,20.4,Moderate,Average
+40966076,WELCOME TO THE JOHNSON'S,0.32126949999999993,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,3.5,18.33333333333333,Inexpensive,Loud
+40969077,BOSTON MARKET,0.2612657534246576,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,2.5,12.0,Inexpensive,Average
+40973003,THE PATRIOT SALOON,0.634181,No,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,16.75,Inexpensive,Loud
+40980389,THE GRAFTON PUBLIC HOUSE,0.8198629032258065,Yes,No,Full Bar,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,4.0,22.75,Moderate,Loud
+40994007,CONTINENTAL,0.1086315,No,No,Full Bar,No,No,Yes,No,Yes,No,No,No,No,2.5,7.666666666666668,Inexpensive,Loud
+40998515,HEARTH,0.8286309999999999,Yes,No,Full Bar,No,Yes,No,Yes,Yes,Yes,No,Yes,No,4.0,18.0,Pricey,Average
+40998586,TRUMP BAR,0.69664375,Yes,No,Full Bar,No,No,Yes,No,No,No,No,No,Yes,3.5,12.333333333333336,Pricey,Very Loud
+41006043,12 CHAIRS,0.7814850000000001,Yes,No,Beer & Wine Only,No,Yes,No,No,Yes,Yes,Yes,Yes,No,4.0,30.4,Moderate,Average
+41007946,FRAMES BOWLING LOUNGE,0.7521005000000001,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.5,13.0,Moderate,Loud
+41012946,TIME WARNER(CAFETERIA),0.8674333333333334,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,3.5,11.75,Inexpensive,Average
+41013755,RUMOURS,0.4719385321100917,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,3.0,14.0,Moderate,Loud
+41014823,FAT CAT BILLIARDS,0.7311741935483871,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,Yes,Yes,4.0,21.33333333333333,Moderate,Average
+41017390,EUROPAN CAFE,0.4442726190476191,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,3.0,16.5,Moderate,Average
+41020286,THE HOUSE OF BREWS,0.7271155000000001,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,19.0,Moderate,Average
+41022886,THE RANDOLPH AT BROOME,0.6092253424657534,Yes,No,Full Bar,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,3.5,25.0,Moderate,Average
+41023740,JOHNY'S LUNCHEONETTE,0.805422,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,4.5,14.8,Inexpensive,Average
+41025084,BRASS MONKEY,0.4118405,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,No,No,3.0,13.75,Moderate,Loud
+41029356,THE DUPLEX,0.677358,Yes,No,Full Bar,No,No,No,Yes,Yes,Yes,No,No,Yes,3.5,11.5,Moderate,Loud
+41040365,FANELLI CAFE,0.7040500000000001,Yes,No,Full Bar,No,No,Yes,No,Yes,No,Yes,No,No,3.5,10.666666666666666,Moderate,Average
+41040475,GRAMERCY  ALE HOUSE,0.7599925373134329,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,No,3.5,26.8,Moderate,Average
+41056088,BUA,0.7887029999999999,Yes,No,Full Bar,No,No,No,Yes,Yes,No,No,No,No,4.0,13.75,Moderate,Average
+41066767,DALTON'S BAR & GRILL,0.7603530000000001,Yes,No,Full Bar,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,15.0,Moderate,Average
+41068567,CELON BAR & LOUNGE,0.3099842105263158,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,Yes,2.5,10.333333333333334,Pricey,Average
+41068920,THE SKINNY,0.5795060000000001,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.5,18.75,Moderate,Average
+41071907,LENOX FAST FOOD,0.845,No,No,No,No,No,Yes,No,No,No,Yes,No,No,4.5,34.6,Inexpensive,Average
+41073072,LIBATION,0.676759,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,Yes,No,3.0,21.0,Moderate,Loud
+41073985,HEARTLAND BREWERY,0.5964345,Yes,Yes,Full Bar,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3.0,13.75,Moderate,Average
+41074013,CAFE MANHATTAN,0.4090956989247312,Yes,Yes,Beer & Wine Only,Yes,Yes,No,No,Yes,No,Yes,No,No,3.0,20.25,Moderate,Average
+41074207,SMALLS JAZZ CLUB,0.7715455,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,4.5,29.66666666666667,Moderate,Loud
+41084540,OPEN HOUSE,0.3308587628865979,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,No,3.0,22.5,Moderate,Loud
+41086770,STITCH BAR,0.6131985,Yes,No,Full Bar,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,3.0,12.75,Moderate,Average
+41087519,REDEMPTION,0.5498149999999999,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,3.0,16.2,Moderate,Loud
+41089876,SARABETH'S,0.6947300000000001,Yes,No,Full Bar,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,3.5,23.8,Moderate,Average
+41090212,MINNIE'S,0.8721525773195876,Yes,No,Full Bar,No,No,No,No,No,No,Yes,Yes,Yes,4.0,11.333333333333336,Moderate,Average
+41091640,HARRINGTON'S BAR & GRILL,0.3130328859060403,Yes,No,Full Bar,No,No,Yes,No,No,No,No,Yes,Yes,2.5,16.0,Moderate,Average
+41098073,STOUT,0.7221584999999999,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3.5,15.5,Moderate,Loud
+41100350,EMPLOYEE'S ONLY,0.7656970000000001,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,4.0,11.333333333333336,Pricey,Loud
+41114768,PUFFY'S TAVERN,0.7373686046511628,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,No,No,4.0,14.0,Inexpensive,Loud
+41116011,CAFE PLAZA DELI,0.182578125,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,2.5,14.75,Inexpensive,Average
+41116590,SUNITA,0.8259496296296296,Yes,No,Full Bar,No,No,No,Yes,Yes,Yes,No,No,No,4.5,9.25,Moderate,Quiet
+41122435,JIMBO'S BURGER PALACE,0.5944650000000001,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,4.0,13.2,Inexpensive,Average
+41126055,LITTLE BRANCH,0.748275,No,No,Full Bar,No,No,No,No,Yes,No,No,No,No,4.0,22.0,Pricey,Average
+41127083,MARKET CAFE,0.5199125,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,3.5,27.0,Inexpensive,Average
+41128262,BRUNO'S CATERING & CAFE,0.5315793650793651,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3.0,19.2,Moderate,Average
+41133245,PEGU CLUB,0.8075305,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,No,4.0,19.666666666666668,Pricey,Average
+41141330,TOASTIES,0.598356,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,4.0,17.75,Inexpensive,Average
+41144024,RIDGEWAY DINER,0.4809311475409835,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3.5,28.0,Moderate,Average
+41148107,HIDDEN CITY CAFE,0.2762076923076923,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,3.0,9.4,Inexpensive,Average
+41151507,BG RESTAURANT,0.8487954999999999,Yes,No,Full Bar,No,No,No,No,No,No,No,Yes,Yes,4.0,10.0,Pricey,Average
+41156294,TELEON CAFE,0.43508804347826097,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3.5,18.0,Inexpensive,Average
+41159730,SHADES OF GREEN,0.4160255319148936,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,2.5,17.0,Moderate,Loud
+41161346,LE BASKET,0.5595734939759035,Yes,Yes,Beer & Wine Only,No,Yes,No,Yes,Yes,Yes,Yes,No,No,3.5,21.83333333333333,Inexpensive,Average
+41162796,ABC KITCHEN,0.7814044999999998,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,4.0,13.25,Pricey,Average
+41171216,EAST SIDE BILLIARD,0.5209154471544715,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,20.5,Moderate,Average
+41171815,G'S CANDY STORE COFFEE SHOP,0.8663814814814815,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,4.5,29.4,Inexpensive,Average
+41177205,TONIC EAST,0.4438555,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3.0,10.75,Moderate,Very Loud
+41183605,TROPICAL 128,0.6202882352941176,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,3.5,25.75,Inexpensive,Average
+41191695,EAST VILLAGE CAFE,0.9039,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,4.0,9.75,Moderate,Average
+41198338,ROYALE,0.7582794999999999,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,33.75,Moderate,Average
+41199571,BAR  BELLY,0.6837655405405405,Yes,No,Full Bar,Yes,No,No,No,Yes,No,No,Yes,Yes,3.5,17.666666666666668,Moderate,Average
+41202176,TED'S MONTANA GRILL,0.6671837500000001,Yes,No,Full Bar,No,No,Yes,No,No,Yes,Yes,Yes,No,3.5,10.75,Moderate,Average
+41202797,MARSHALL STACK,0.7708645000000001,No,No,Beer & Wine Only,No,No,Yes,No,Yes,Yes,No,No,No,4.0,15.0,Moderate,Average
+41211246,SUNBURST ESPRESSO BAR,0.47042,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3.0,15.8,Moderate,Average
+41212475,MOE'S CAFE,-0.273,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,2.0,14.333333333333336,Inexpensive,Average
+41216379,EASTERN BLOC / Club Cumming,0.73345,Yes,No,Full Bar,No,No,No,No,No,No,No,No,No,4.0,19.75,Moderate,Very Loud
+41218434,GIGI CAFE,0.4704466216216216,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.0,6.666666666666668,Inexpensive,Average
+41218950,GREENWICH TREEHOUSE,0.669604,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,8.333333333333334,Inexpensive,Average
+41219088,THE WAVERLY INN,0.6629200000000001,Yes,No,Full Bar,No,No,No,Yes,Yes,Yes,No,Yes,No,3.5,11.666666666666664,Pricey,Average
+41219793,THE MONKEY ROOM,0.6533611764705883,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,3.5,11.25,Moderate,Average
+41222832,BROADWAY COMEDY CLUB,0.329856,Yes,No,Full Bar,No,No,No,No,Yes,No,No,No,No,2.5,29.66666666666667,Moderate,Average
+41223399,GOOGLE CAFETERIA,0.6577629999999999,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,3.5,8.333333333333334,Moderate,Loud
+41225222,DISHES,0.5538396103896104,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,3.5,24.5,Moderate,Average
+41225392,BAYARD'S ALEHOUSE,0.7041887417218543,Yes,Yes,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,3.5,14.333333333333336,Moderate,Average
+41228468,THE RITZ BAR & LOUNGE,0.505434693877551,Yes,No,Full Bar,No,No,Yes,Yes,No,Yes,No,No,No,3.0,23.75,Inexpensive,Very Loud
+41228760,THE KITCHEN SINK,0.475837037037037,Yes,No,Full Bar,No,Yes,Yes,No,No,Yes,Yes,Yes,No,3.0,11.75,Moderate,Quiet
+41229106,BLIND PIG,0.5903930000000001,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.0,18.0,Moderate,Loud
+41236517,CAFE AMRITA,0.5657814999999999,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,3.5,13.0,Moderate,Average
+41238209,TOWER'S CAFE,0.85825,Yes,No,No,No,No,No,No,No,No,Yes,No,No,3.0,19.6,Inexpensive,Average
+41239831,SLATTERY'S MIDTOWN PUB,0.729016,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,18.5,Moderate,Average
+41243023,SHUKA,0.8331620000000001,Yes,No,Full Bar,No,No,No,No,Yes,No,Yes,Yes,Yes,4.0,17.25,Moderate,Average
+41246747,THE CANNIBAL NYC,0.712167,Yes,No,Beer & Wine Only,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.0,22.5,Moderate,Average
+41248529,ROUTE 66 CAFE,0.5597115,Yes,No,Full Bar,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3.0,19.0,Moderate,Average
+41249167,UNCLE CHARLIE,0.7517400000000001,Yes,No,Full Bar,No,No,Yes,Yes,Yes,No,No,No,Yes,3.5,10.333333333333334,Moderate,Average
+41249394,THE GREY DOG'S COFFEE,0.8261915000000001,Yes,No,Beer & Wine Only,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,4.0,7.25,Moderate,Average
+41252214,LAZY POINT,0.7094725490196079,Yes,No,Full Bar,No,No,No,No,No,Yes,No,Yes,No,4.0,19.0,Moderate,Average
+41263879,THE HALF PINT,0.8085169999999999,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,13.5,Moderate,Average
+41269802,SANCTUARY T,0.7563489999999999,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3.5,20.5,Moderate,Average
+41270891,WHISKEY TRADER,0.678103,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.5,19.6,Moderate,Loud
+41275275,WHISKEY TOWN,0.7110793103448276,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.5,10.75,Moderate,Very Loud
+41276535,PAUL'S RESTAURANT,0.6080363636363636,Yes,No,Full Bar,No,No,No,Yes,Yes,No,No,Yes,Yes,3.5,12.0,Inexpensive,Average
+41279957,LELABAR,0.8979925,Yes,No,Beer & Wine Only,No,No,No,No,Yes,Yes,No,No,Yes,4.0,16.0,Moderate,Average
+41296528,EVOLVE,0.3487333333333334,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,Yes,No,2.5,19.33333333333333,Moderate,Loud
+41298603,THE SMITH,0.8537684999999999,Yes,No,Full Bar,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3.5,16.5,Moderate,Loud
+41305028,MADISON & VINE,0.608198125,Yes,No,Full Bar,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,3.0,8.5,Pricey,Average
+41313515,"DUNKIN' DONUTS, BASKIN ROBBINS",0.34005,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,3.0,8.25,Moderate,Average
+41314977,THE RUSTY KNOT,0.7287075000000001,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,8.333333333333334,Moderate,Average
+41317579,BELFRY,0.793759,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,No,4.0,11.333333333333336,Moderate,Loud
+41317594,MARK FORGIONE,0.8633095000000001,Yes,No,Full Bar,No,No,No,Yes,No,Yes,No,Yes,No,4.0,16.0,Pricey,Average
+41322152,1 2 3 BURGER SHOT BEER,0.440004,Yes,No,Full Bar,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3.0,10.75,Inexpensive,Average
+41326189,ST JAMES GATE,0.6175380597014926,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,27.25,Moderate,Average
+41326368,EET,0.4500892857142857,Yes,No,Beer & Wine Only,Yes,No,Yes,No,No,Yes,Yes,No,Yes,2.5,15.25,Moderate,Average
+41327917,PIER 66 MARITIME,0.5904979591836734,Yes,Yes,Full Bar,Yes,No,No,Yes,No,Yes,Yes,No,No,3.5,12.0,Moderate,Average
+41328516,SUTTON BAR ROOM,0.8915894736842106,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,Yes,Yes,4.5,15.25,Moderate,Average
+41331156,ROOM MATE GRACE HOTEL,0.6864633879781421,Yes,No,No,No,No,No,No,No,No,No,No,Yes,3.5,17.4,Moderate,Average
+41335133,MAMA EATERY,0.7701618181818181,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,4.0,13.0,Inexpensive,Average
+41336336,SOPHIE'S,0.4817647540983607,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,13.0,Inexpensive,Average
+41348161,DELICATESSEN MACBAR,0.726474,Yes,Yes,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,17.5,Moderate,Average
+41351040,HUDSON VIEW RESTAURANT,0.563220618556701,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.0,25.4,Moderate,Average
+41356747,LINCOLN PARK BAR & GRILL,0.722322,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,3.5,27.4,Moderate,Average
+41363184,BEAN N BEAN,0.7136743902439026,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,4.0,7.666666666666668,Moderate,Average
+41363774,RATTLE N HUM,0.7184633333333333,Yes,No,Full Bar,No,No,Yes,No,Yes,No,Yes,Yes,Yes,4.0,8.0,Moderate,Loud
+41370362,HOUNDSTOOTH PUB,0.655068,Yes,No,Full Bar,No,Yes,Yes,No,Yes,No,Yes,Yes,No,3.0,11.5,Moderate,Average
+41371241,DEAN & DELUCA,0.6045134999999999,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,4.0,11.666666666666664,Pricey,Average
+41372091,GOSSIPS,0.8755287356321841,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,4.5,25.0,Inexpensive,Average
+41375676,AU ZA'ATAR,0.6698654999999999,Yes,Yes,Beer & Wine Only,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,4.0,10.25,Moderate,Average
+41378319,L'ARTUSI,0.8549655,Yes,No,Full Bar,No,No,No,No,No,No,No,Yes,No,4.5,11.666666666666664,Pricey,Average
+41381714,DANCING CRANE CAFE,-0.0264923076923077,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,2.0,3.333333333333333,Moderate,Average
+41382108,PEARL DINER,0.4855190217391304,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,3.0,19.0,Inexpensive,Average
+41382293,TISSERIE,0.6893454999999999,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,4.0,13.8,Inexpensive,Average
+41384170,RAINES LAW ROOM,0.8039015,Yes,No,Full Bar,No,No,No,Yes,Yes,No,No,Yes,No,4.5,5.333333333333333,Pricey,Quiet
+41388993,WESTVILLE,0.8061162303664922,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,4.0,15.5,Moderate,Average
+41390998,CAFE OLYMPIA,0.20900437956204385,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,2.5,27.4,Moderate,Loud
+41391961,MONKEY BAR,0.6944294999999999,Yes,No,Full Bar,No,No,No,No,No,No,No,Yes,Yes,3.5,8.333333333333334,Pricey,Average
+41396476,LEA WINE BAR,0.7446984375,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,Yes,Yes,3.5,9.0,Moderate,Average
+41401638,MADISON RESTAURANT,0.5731195000000001,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,No,No,3.5,13.8,Moderate,Average
+41403291,ARDESIA,0.8915285000000001,Yes,No,Beer & Wine Only,No,No,No,Yes,Yes,Yes,Yes,Yes,No,4.0,12.0,Moderate,Average
+41405007,THE CAPITAL GRILLE,0.850282,Yes,No,Full Bar,Yes,No,No,No,Yes,No,No,Yes,Yes,4.0,14.333333333333336,Pricey,Average
+41405368,DYLAN MURPHY'S,0.7426523809523811,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,19.33333333333333,Moderate,Average
+41407650,WARREN 77,0.5442127906976745,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.0,13.666666666666664,Moderate,Average
+41410290,THE IRON HORSE,0.5382405,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,Yes,4.0,19.5,Inexpensive,Loud
+41416781,RYEHOUSE,0.7363974999999999,Yes,Yes,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,3.5,17.0,Moderate,Average
+41417111,HAMPTON INN CHELSEA,0.7277559633027523,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,4.0,9.5,Moderate,Average
+41420036,SPIN NEW YORK,0.8369933333333335,Yes,No,Full Bar,Yes,No,Yes,No,Yes,No,No,Yes,Yes,4.0,9.666666666666666,Moderate,Average
+41423957,BLOOMS DELICATESSEN AND RESTAURANT,0.3797811111111111,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,3.0,13.75,Moderate,Average
+41424474,JOHN JAY DINING HALL,0.7067923076923078,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,3.5,12.5,Moderate,Loud
+41426013,MIMOSA,0.3833652173913044,Yes,No,Full Bar,No,No,Yes,No,No,No,No,No,No,2.5,26.0,Moderate,Average
+41426958,HAMPTON INN - MANHATTAN TIMES SQUARE SOUTH,0.6727824074074072,Yes,No,No,No,No,No,No,No,No,No,No,Yes,3.5,9.25,Moderate,Average
+41428049,THE ARCHIVE,0.7183516129032259,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,Yes,No,3.5,13.0,Moderate,Average
+41429540,GROUND SUPPORT CAFE,0.6856985,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,4.0,11.5,Moderate,Average
+41436874,THE CROSBY STREET HOTEL,0.8155697674418605,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,4.0,11.25,Pricey,Average
+41443726,MCKENNA'S PUB,0.7150129999999999,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,20.25,Inexpensive,Average
+41447792,FRESH & CO,0.3916295,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,3.0,18.75,Moderate,Average
+41449148,TAZ CAFE,0.3919973684210527,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,3.0,10.333333333333334,Inexpensive,Average
+41453205,THE GREY DOG,0.8228925000000001,Yes,No,Beer & Wine Only,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,4.0,7.0,Moderate,Average
+41454101,FRESCO 57,0.16358064516129034,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,2.5,22.4,Inexpensive,Average
+41455044,MR. BIGGS BAR AND GRILL,0.566998,Yes,No,Full Bar,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,3.0,11.0,Moderate,Loud
+41456472,B BAR AND GRILL,0.5067495000000001,Yes,No,Full Bar,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3.0,14.75,Moderate,Average
+41458571,WESTVILLE,0.8140080000000001,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,4.0,21.4,Moderate,Average
+41459513,BUONGIORNO ESPRESSO,0.6339602739726028,Yes,No,No,No,No,No,No,No,No,Yes,No,No,3.5,14.666666666666664,Inexpensive,Average
+41459743,EVERYDAY GOURMET DELI,0.5626218045112783,Yes,Yes,Beer & Wine Only,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,3.5,22.4,Inexpensive,Average
+41460700,PIG 'N' WHISTLE,0.5693432098765433,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,3.5,13.0,Moderate,Average
+41463394,HEARTLAND BREWERY,0.5964345,Yes,Yes,Full Bar,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3.0,12.333333333333336,Moderate,Average
+41464512,Edge Funds Cafe,0.7678979999999999,Yes,No,Full Bar,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4.0,18.75,Moderate,Average
+41464542,THE BLUEBELL CAFE,0.8183444999999999,Yes,No,Full Bar,No,No,No,No,Yes,Yes,Yes,No,Yes,4.0,18.0,Moderate,Average
+41467165,CHELSEA PAPAYA,0.4626454545454545,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,3.5,16.2,Inexpensive,Average
+41470760,THE TOOL BOX,0.6419382352941178,Yes,Yes,Full Bar,No,No,Yes,No,Yes,Yes,No,No,Yes,3.5,10.0,Moderate,Average
+41471964,DRUNKEN HORSE,0.8058592592592594,Yes,No,Full Bar,No,Yes,No,No,Yes,Yes,Yes,No,Yes,4.0,8.5,Moderate,Average
+41473931,WHISKEY REBEL,0.7366613207547169,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.5,21.4,Moderate,Loud
+41474509,SHAKE SHACK,0.7098439999999999,Yes,No,Beer & Wine Only,No,No,No,Yes,Yes,Yes,Yes,No,No,4.0,11.0,Moderate,Average
+41475992,THE CROOKED KNIFE,0.6904644999999999,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,26.4,Moderate,Average
+41477483,HOLIDAY INN EXPRESS - MANHATTAN,0.6603595744680851,Yes,No,No,No,No,No,No,No,No,No,No,Yes,3.5,8.333333333333334,Moderate,Average
+41478031,GUY & GALLARD,0.4544877358490566,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,2.5,29.6,Inexpensive,Average
+41479731,STILLWATER BAR & GRILL,0.6278730769230769,Yes,No,Full Bar,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,3.5,16.8,Inexpensive,Loud
+41480442,ATLANTICA,0.4679150793650793,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,Yes,2.5,8.666666666666666,Pricey,Average
+41486386,UMAMI BURGER,0.5855830769230769,Yes,No,Full Bar,No,No,Yes,Yes,No,No,Yes,No,Yes,3.0,47.2,Moderate,Average
+41487277,AUGURS WELL,0.7132333333333333,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,4.0,12.75,Moderate,Average
+41490991,LIPS RESTAURANT,0.8739314999999999,Yes,No,Full Bar,No,No,Yes,No,Yes,No,Yes,Yes,No,4.0,17.333333333333332,Pricey,Average
+41498521,SUSHI ROXX,0.8141499999999999,Yes,No,Full Bar,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,14.25,Pricey,Very Loud
+41499185,BURGER & BARREL,0.7054414999999999,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.5,18.25,Moderate,Average
+41503751,STANTON SOCIAL,0.8299475000000001,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,No,4.0,14.0,Pricey,Loud
+41507371,LE PAIN QUOTIDIEN,0.43666973684210536,Yes,Yes,Beer & Wine Only,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,3.0,4.5,Moderate,Average
+41507697,BIER INTERNATIONAL,0.6831174999999999,Yes,Yes,Beer & Wine Only,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,3.5,9.5,Moderate,Average
+41509250,MASON JAR,0.6776535000000001,Yes,No,Full Bar,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,20.75,Moderate,Average
+41518177,AU BON PAIN,0.29569375,Yes,No,No,No,No,No,No,No,No,Yes,No,No,2.5,7.333333333333332,Inexpensive,Average
+41519587,BLIND BARBER,0.5992545,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,3.5,13.666666666666664,Moderate,Loud
+41520610,BAREBURGER,0.6845979999999999,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,14.0,Moderate,Average
+41529703,ON THE ROCKS,0.6720089999999999,Yes,No,Full Bar,No,No,No,No,Yes,No,No,No,No,4.0,11.0,Moderate,Average
+41530089,BROOKLYNEER,0.6737694999999999,Yes,No,Full Bar,No,No,Yes,No,Yes,No,Yes,Yes,Yes,3.5,19.33333333333333,Moderate,Average
+41530127,INTERNATIONAL BAR,0.0708230769230769,Yes,No,Full Bar,No,No,No,No,No,Yes,No,No,No,3.0,6.333333333333332,Inexpensive,Loud
+41535441,MAJESTIC DELICATESSEN CAFE,0.14701077844311375,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,2.0,14.0,Moderate,Average
+41538244,BRAVEST,0.7643359116022099,Yes,No,Full Bar,No,No,Yes,No,Yes,No,Yes,No,Yes,4.0,11.25,Moderate,Average
+41543885,THE DUTCH,0.699346,Yes,No,Full Bar,No,No,No,No,Yes,Yes,Yes,Yes,No,3.5,10.75,Pricey,Average
+41543887,BEAUTY AND ESSEX,0.906286,Yes,No,Full Bar,No,Yes,No,No,Yes,No,Yes,Yes,No,4.0,16.0,Pricey,Loud
+41546041,HEIDI'S HOUSE BY THE SIDE OF THE ROAD,0.8854219999999999,Yes,No,Beer & Wine Only,No,No,No,No,Yes,No,Yes,No,Yes,4.5,12.25,Moderate,Average
+41553930,CITY WINERY,0.684179,Yes,No,Full Bar,Yes,No,No,Yes,Yes,No,No,Yes,Yes,3.5,25.0,Moderate,Average
+41555214,FEDORA,0.7961830000000001,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,Yes,4.0,21.0,Pricey,Loud
+41557498,ARTIFAKT BAR,0.8316000000000001,Yes,No,Full Bar,No,No,No,No,No,Yes,No,No,Yes,5.0,11.666666666666664,Moderate,Quiet
+41559999,DARKHORSE,0.8134145,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,22.66666666666667,Moderate,Average
+41563445,GMT TAVERN,0.7312664948453609,Yes,Yes,Full Bar,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,14.5,Moderate,Average
+41564700,SARABETH'S,0.6677105,Yes,Yes,Full Bar,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,3.0,15.6,Moderate,Average
+41566261,BAR CENTRALE,0.6724763513513515,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,3.5,9.0,Pricey,Quiet
+41566492,AU BON PAIN,0.29569375,Yes,No,No,No,No,No,No,No,No,Yes,No,No,2.5,8.75,Inexpensive,Average
+41568332,THE DUCK,0.5996139784946236,No,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,23.25,Inexpensive,Average
+41569979,SHAKE SHACK,0.7139774999999999,Yes,No,Beer & Wine Only,No,No,Yes,Yes,Yes,Yes,Yes,No,No,4.0,12.0,Moderate,Average
+41573739,CREPERIE,0.7068665,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,4.0,10.25,Inexpensive,Average
+41576850,WEST END BAR & GRILL,0.7238724999999999,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,11.0,Moderate,Average
+41583726,PRET A MANGER,0.6978092105263157,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,3.5,7.666666666666668,Inexpensive,Average
+41589545,ZANNY'S CAFE,0.7377123456790124,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,3.5,8.75,Inexpensive,Quiet
+41589635,PRODUCERS LOUNGE,0.7976030000000001,Yes,No,Full Bar,No,No,No,Yes,Yes,No,No,No,No,4.0,10.5,Pricey,Average
+41591881,WILLIAM BARNACLE,0.7771494623655916,Yes,No,Full Bar,No,No,No,No,No,Yes,No,No,No,4.5,18.33333333333333,Moderate,Quiet
+41597250,OXBOW TAVERN,0.5549947368421052,Yes,No,Full Bar,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,3.0,9.333333333333334,Pricey,Average
+41599313,THE MANCHESTER DINER,0.5215050420168068,Yes,No,Beer & Wine Only,No,Yes,Yes,No,Yes,Yes,Yes,No,No,3.5,21.0,Moderate,Average
+41605054,TOMPKINS SQUARE BAGELS,0.7544139999999999,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,4.0,17.25,Inexpensive,Average
+41605289,EARL OF SANDWICH,0.5808442857142856,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.5,14.75,Inexpensive,Average
+41610749,MUDSPOT,0.772552,Yes,No,Beer & Wine Only,No,No,No,Yes,Yes,Yes,Yes,No,No,4.0,13.5,Moderate,Average
+41614537,FLAMING SADDLES SALOON,0.7286880952380953,No,No,Full Bar,No,No,Yes,No,Yes,No,No,No,No,4.0,10.666666666666666,Moderate,Average
+41616501,ARGOTEA,0.7193085,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,3.5,3.6666666666666665,Moderate,Quiet
+41616853,THE ALLIE WAY SPORTS BAR & GRILL,0.7824479166666668,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,Yes,4.0,13.0,Moderate,Average
+41618158,STONE STREET COFFEE COMPANY,0.7737859154929576,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,4.0,17.666666666666668,Moderate,Average
+41618228,FIVE GUYS FAMOUS BURGERS AND FRIES,0.627513,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,3.5,8.0,Moderate,Average
+41618267,PHOENIX,0.5809607999999999,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,3.5,12.666666666666664,Inexpensive,Average
+41619055,SONS OF ESSEX,0.8316335000000001,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,23.25,Moderate,Loud
+41619703,FOUR CUTS STEAKHOUSE,0.8690625000000001,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,20.0,Pricey,Average
+41621240,CITY SWIGGERS,0.6837416107382549,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,4.0,8.666666666666666,Moderate,Average
+41623363,DUNKIN' DONUTS,0.6642222222222222,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,4.5,16.0,Inexpensive,Quiet
+41623475,POTBELLY SANDWICH WORKS,0.5238551912568306,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,3.5,11.5,Inexpensive,Average
+41625961,DUNKIN' DONUTS,-0.1444388888888889,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,2.0,6.75,Inexpensive,Average
+41628361,THE AINSWORTH,0.5657979999999999,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.0,16.333333333333332,Moderate,Very Loud
+41628608,LILLIE'S,0.838981,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,4.0,16.4,Pricey,Average
+41629513,PRET A MANGER,0.6199180000000001,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,3.5,5.5,Inexpensive,Average
+41630558,TRI TIP GRILL,0.6067263157894738,Yes,No,Beer & Wine Only,Yes,Yes,No,No,No,No,Yes,No,No,3.5,18.33333333333333,Moderate,Loud
+41630613,PRET A MANGER,0.7139682926829268,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,4.0,7.666666666666668,Inexpensive,Average
+41631630,ROCKWOOD MUSIC HALL (STAGE ZERO),0.8055979999999999,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,4.5,12.333333333333336,Moderate,Loud
+41631962,POPEYES LOUISIANA KITCHEN,0.37964193548387104,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,3.0,8.0,Inexpensive,Average
+41633315,5 BORO BURGER,0.4606681818181818,Yes,No,Full Bar,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,3.0,17.0,Moderate,Average
+41635392,JUICE GENERATION,0.6956278688524591,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,4.0,4.333333333333333,Moderate,Average
+41636061,JACK'S WIFE FREDA,0.8286525,Yes,No,Full Bar,No,No,No,Yes,Yes,Yes,Yes,Yes,No,4.0,17.75,Moderate,Loud
+41637054,ORION DINER & GRILL,0.338639226519337,Yes,No,Beer & Wine Only,No,Yes,Yes,No,Yes,Yes,Yes,No,No,2.5,13.75,Moderate,Average
+41637468,BUDDHA BEER BAR,0.6394420000000001,Yes,No,Full Bar,No,No,Yes,Yes,Yes,No,Yes,No,No,3.5,25.6,Moderate,Average
+41638085,AMUSED,0.8629225806451613,No,No,Beer & Wine Only,Yes,No,No,No,Yes,No,Yes,No,Yes,4.5,9.5,Moderate,Average
+41638655,"DUNKIN' DONUTS, BASKIN ROBBINS",0.14210000000000006,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,2.5,11.5,Inexpensive,Average
+41639573,CORNER SOCIAL,0.6344415,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.0,22.2,Moderate,Average
+41639734,VITAE,0.8683835000000001,Yes,No,Full Bar,Yes,No,No,No,Yes,No,Yes,Yes,No,4.0,17.5,Pricey,Average
+41639964,THE little BEET TABLE,0.8341594999999999,Yes,No,Full Bar,No,No,No,No,Yes,Yes,Yes,Yes,No,4.0,14.25,Moderate,Average
+41640556,COVE LOUNGE,0.7052710000000001,Yes,Yes,Full Bar,No,No,Yes,Yes,Yes,Yes,No,Yes,No,3.5,23.33333333333333,Moderate,Average
+41640846,RANDOLPH BEER,0.5754583333333333,Yes,No,Full Bar,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,17.0,Moderate,Average
+41642375,HARLEM FOOD BAR,0.6739729999999999,Yes,Yes,Full Bar,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,3.5,15.0,Moderate,Average
+41647741,THE STANDARD EAST VILLAGE,0.6192016666666668,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,3.5,27.5,Pricey,Average
+41649130,THE SMITH,0.7925764999999998,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3.5,11.0,Moderate,Average
+41649356,"DUNKIN' DONUTS, HUDSON NEWS",0.06517499999999997,Yes,No,No,No,No,No,No,No,No,Yes,No,No,2.0,7.0,Inexpensive,Average
+41649377,"DUNKIN' DONUTS, HUDSON NEWS",0.06517499999999997,Yes,No,No,No,No,No,No,No,No,Yes,No,No,2.0,17.0,Inexpensive,Average
+41651780,THE GUTHRIE INN,0.7687205357142857,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,4.0,14.333333333333336,Moderate,Average
+41651838,BEER AUTHORITY,0.5473945,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,3.5,14.8,Moderate,Average
+41655590,GIGI CAFE,0.5341487046632124,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3.5,10.0,Inexpensive,Average
+41659498,WORLD YACHT DUCHESS,0.7725493670886076,Yes,No,Full Bar,Yes,No,No,Yes,Yes,Yes,No,Yes,No,3.5,15.333333333333336,Pricey,Average
+41660386,THE LATELY,0.3742528301886792,Yes,No,Full Bar,No,No,Yes,No,No,No,No,Yes,Yes,2.5,11.333333333333336,Moderate,Average
+41660537,AMERICAN BAR,0.6532656250000001,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,4.0,14.75,Inexpensive,Average
+41664437,BOCADO CAFE,0.7372399999999999,Yes,No,Beer & Wine Only,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,3.5,9.666666666666666,Moderate,Average
+41664553,THE NATIONAL,0.4975655000000001,No,No,Full Bar,No,Yes,No,Yes,Yes,Yes,Yes,No,No,3.5,28.16666666666667,Moderate,Average
+41665625,FORGTMENOT,0.7734017964071855,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,4.0,13.0,Moderate,Average
+41670066,JJ'S CAFE,0.9019,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,5.0,8.666666666666666,Moderate,Loud
+41670151,CAFE OLIVIERO,0.22313164556962026,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,No,Yes,No,Yes,3.0,22.0,Moderate,Average
+41672903,MALONEY & PORCELLI,0.7478670000000001,Yes,No,Full Bar,Yes,No,No,No,Yes,No,No,Yes,Yes,4.0,9.5,Pricey,Average
+41674628,MANHATTAN PROPER,0.7708505,Yes,Yes,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,12.0,Moderate,Average
+41675816,MACARON,0.6019220125786163,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,3.5,16.5,Moderate,Quiet
+41676090,HAMPTON INN EMPIRE STATE BUILDING,0.6040709090909091,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,3.5,7.333333333333332,Moderate,Average
+41676543,BLUE SPOON,0.7326520467836257,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,4.0,9.0,Inexpensive,Average
+41676577,THE CUTTING ROOM,0.478969,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,3.0,18.33333333333333,Moderate,Average
+41679646,GREENWICH VILLAGE COMEDY CLUB,0.4918632,Yes,No,Full Bar,No,No,No,No,Yes,No,No,No,No,3.0,11.0,Moderate,Average
+41679739,FRAME GOURMET EATERY,0.3488805194805195,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,2.5,28.6,Moderate,Average
+41680620,TERROIR AT THE PORCH,0.8001959999999998,Yes,No,Beer & Wine Only,No,No,No,Yes,Yes,Yes,No,No,No,3.5,14.666666666666664,Moderate,Average
+41680991,BLAKE AND TODD,0.3120033898305084,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,No,2.5,9.75,Moderate,Average
+41681319,DUCKS EATERY,0.7303930000000001,Yes,No,Full Bar,No,No,No,Yes,Yes,Yes,Yes,Yes,No,4.0,16.0,Moderate,Average
+41683619,PANERA BREAD,0.192796,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,2.5,9.5,Inexpensive,Average
+41687431,STAMINA GRILL & JUICE BAR,0.560946875,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3.5,18.4,Moderate,Average
+41688540,FOOD DEPOT,0.2619333333333333,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,2.5,13.25,Moderate,Average
+41690590,POURING RIBBONS,0.8704430000000001,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,No,No,4.0,18.0,Pricey,Average
+41694146,HU KITCHEN,0.605351,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3.5,29.25,Moderate,Average
+41700209,LATITUDE BAR & GRILL,0.682133,Yes,No,Full Bar,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3.5,15.333333333333336,Moderate,Average
+41701052,GREEN CAFE,0.3591786666666667,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,3.0,14.75,Moderate,Average
+41701548,TWO-BITS RETRO ARCADE,0.6955290000000001,Yes,No,Beer & Wine Only,No,No,Yes,No,Yes,No,No,No,No,4.0,20.5,Inexpensive,Average
+41703786,ESSEN,0.14927647058823526,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,2.5,7.0,Moderate,Average
+41703804,PENNSYLVANIA 6,0.8057475000000001,Yes,No,Full Bar,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,4.0,20.4,Moderate,Average
+41705357,THE THIRD MAN,0.8655881720430106,Yes,No,Full Bar,No,No,No,Yes,Yes,Yes,No,Yes,No,4.0,13.666666666666664,Moderate,Average
+41705503,VANGUARD WINE BAR,0.8457462686567164,Yes,No,Beer & Wine Only,No,No,Yes,No,No,Yes,No,No,No,4.0,6.333333333333332,Moderate,Average
+41706078,AU BON PAIN,0.4358179999999999,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,3.5,9.333333333333334,Inexpensive,Quiet
+41706596,CAFE TODAY,0.5519522388059701,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,3.5,12.75,Inexpensive,Average
+41707677,BOULTON & WATT,0.8300405000000001,Yes,Yes,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,20.0,Moderate,Average
+41709011,SOCIAL,0.6187299492385786,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3.5,17.0,Moderate,Average
+41710298,WISE MEN,0.8505987179487178,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,4.0,10.666666666666666,Moderate,Loud
+41711530,GALLAGHER'S,0.7715905000000001,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,Yes,4.0,15.75,Pricey,Average
+41713390,MARINA GOURMET DELI.,0.5412473684210526,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,3.5,21.4,Inexpensive,Average
+41714341,PLANET HOLLYWOOD,0.4358465,Yes,No,Full Bar,No,No,Yes,No,No,No,Yes,Yes,Yes,3.0,14.0,Moderate,Loud
+41716943,STAGE 48,0.21118750000000006,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,No,No,2.5,18.0,Moderate,Very Loud
+41721324,STARBUCKS,0.2744285714285714,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,3.0,4.25,Moderate,Average
+41721343,COFFEE SHOP DINER,0.8059289473684209,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,5.0,33.0,Inexpensive,Average
+41721390,TUTTLES,0.6206870000000001,Yes,Yes,Full Bar,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,14.75,Moderate,Average
+41721670,MULBERRY & VINE,0.800441,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,4.0,29.4,Moderate,Average
+41721673,CRAZY ANNIE'S,0.5315411042944785,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.0,16.5,Moderate,Loud
+41722812,DIG INN,0.6667535,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,4.0,12.2,Moderate,Average
+50000153,THE BEST OF NEW YORK FOOD,0.47035128205128207,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,3.5,19.25,Inexpensive,Average
+50000161,CHARLIE BIRD,0.7560355000000001,Yes,No,Full Bar,No,No,No,Yes,Yes,Yes,No,Yes,No,3.5,12.0,Pricey,Average
+50000489,INSOMNIA COOKIES,0.4569891191709845,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.0,8.666666666666666,Inexpensive,Average
+50000551,WOLFNIGHTS,0.6987635,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,4.0,19.0,Inexpensive,Average
+50000726,BILL'S BAR AND BURGER DOWNTOWN,0.6029605,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.5,6.0,Moderate,Average
+50000803,LE PAIN QUOTIDIEN,0.3394220338983051,Yes,No,Beer & Wine Only,Yes,Yes,No,Yes,No,No,Yes,No,Yes,3.0,6.666666666666668,Moderate,Average
+50000880,PARKER & QUINN,0.8261454999999998,Yes,Yes,Full Bar,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,4.0,19.5,Moderate,Average
+50001451,BUBBY'S HIGHLINE,0.7269359999999999,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3.5,12.0,Moderate,Average
+50001520,FRIEDMAN'S,0.7329240000000001,Yes,No,Full Bar,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,4.0,10.5,Moderate,Average
+50001547,THE WINSLOW,0.8489064999999999,Yes,No,Full Bar,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4.5,15.2,Moderate,Average
+50001622,EARL'S BEER & CHEESE,0.8233174999999999,Yes,No,Beer & Wine Only,No,No,Yes,No,Yes,Yes,Yes,No,No,4.0,18.8,Moderate,Average
+50001786,DAG'S THE PATIO,0.4380592592592593,Yes,No,Full Bar,No,No,No,Yes,No,Yes,Yes,No,No,3.5,25.0,Moderate,Average
+50001805,FISHTAG,0.7859520000000001,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,No,4.0,14.0,Pricey,Average
+50001807,MONARCH,0.6407010000000001,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,3.5,12.0,Moderate,Loud
+50001914,ATLAS SOCIAL CLUB,0.334975,Yes,No,Full Bar,No,No,Yes,No,No,Yes,No,No,No,2.5,11.333333333333336,Moderate,Very Loud
+50001918,BLACK IRON BURGER,0.803082,Yes,No,Beer & Wine Only,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,4.0,14.333333333333336,Moderate,Average
+50002019,HOME SWEET HARLEM,0.7359749999999999,Yes,No,Beer & Wine Only,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,16.75,Moderate,Average
+50002065,VACCA GRILL & LOUNGE,0.2821250000000001,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,2.5,23.0,Moderate,Loud
+50002202,BEA,0.8265665000000001,Yes,No,Full Bar,No,No,No,No,Yes,No,Yes,Yes,No,4.0,34.0,Moderate,Average
+50002271,MARGAUX,0.6939925925925925,Yes,No,Full Bar,No,No,No,No,Yes,No,Yes,Yes,No,3.0,12.333333333333336,Moderate,Average
+50002623,LE CAFE COFFEE,0.8342,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,4.0,10.0,Inexpensive,Average
+50002767,THE SKYLARK,0.7593139999999999,Yes,No,Full Bar,No,No,Yes,Yes,Yes,No,No,Yes,Yes,4.0,8.666666666666666,Pricey,Average
+50002871,SHAKE AND BURGER BAR,0.8057222222222222,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,24.0,Moderate,Average
+50003078,THE ROOF,0.5754430107526883,Yes,No,Full Bar,No,No,No,Yes,Yes,No,No,Yes,No,3.0,15.666666666666664,Pricey,Average
+50003258,DURDEN,0.6059630434782609,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,28.66666666666667,Moderate,Average
+50003273,RED MANGO,0.6448877862595419,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,3.5,7.333333333333332,Inexpensive,Average
+50003400,THE CHESTER,0.4024665,Yes,Yes,Full Bar,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,2.5,28.2,Moderate,Average
+50003434,Q MARQET,0.5482842105263157,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,3.0,19.0,Moderate,Average
+50003504,ROTISSERIE GEORGETTE,0.7906725274725275,Yes,No,Full Bar,No,Yes,No,No,Yes,No,Yes,Yes,Yes,4.0,13.333333333333336,Pricey,Average
+50003624,BREAK ROOM,0.7700479999999998,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,No,4.5,15.0,Inexpensive,Average
+50003842,T 45,0.5792509090909091,Yes,No,Full Bar,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3.5,23.0,Moderate,Average
+50003978,BONNIE VEE,0.8203077519379844,Yes,No,Full Bar,No,No,No,Yes,Yes,Yes,No,No,No,4.0,8.0,Moderate,Average
+50004299,EMMETTS,0.728579,Yes,No,Beer & Wine Only,No,Yes,No,No,Yes,Yes,Yes,No,No,4.0,25.0,Moderate,Average
+50004433,DALI MARKET,0.4776685714285715,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.0,16.25,Inexpensive,Average
+50004809,BAR BACON,0.8338565,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.0,14.75,Moderate,Average
+50005331,Vivid Cabaret,0.6594956521739129,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,No,No,3.5,18.666666666666668,Pricey,Loud
+50005405,ARIA,0.711471,Yes,Yes,Full Bar,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,3.5,17.75,Moderate,Average
+50005881,LILLY O'BRIENS,0.4038897959183674,Yes,No,Full Bar,No,Yes,Yes,No,Yes,No,Yes,No,Yes,3.5,22.6,Moderate,Average
+50006102,PINO WINE BAR,0.8038159420289854,Yes,No,Full Bar,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,4.5,10.25,Moderate,Average
+50007039,FIVE MILE STONE,0.7347305000000001,Yes,No,Full Bar,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3.5,13.25,Moderate,Average
+50007093,PHILIPPE NYC I,0.720082,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,14.0,Pricey,Average
+50007126,SANDWICHERIE OF NEW YORK,0.5961380597014926,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,3.5,18.0,Moderate,Average
+50008145,MIGHTY QUINN'S BBQ,0.7255375,Yes,No,Beer & Wine Only,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,4.0,13.0,Moderate,Average
+50009465,HILTON GARDEN INN- MANHATTAN- MIDTOWN EAST,0.6120041237113402,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,3.5,28.25,Moderate,Average
+50009924,TOASTIES,0.6337949685534591,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,3.5,27.6,Inexpensive,Average
+50011049,LIGHTHOUSE FISHMARKET,0.4733889534883721,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,3.5,22.0,Moderate,Average
+50011368,Burger Heights,0.7424955,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,4.0,9.333333333333334,Inexpensive,Average
+50011590,UPLAND,0.8206924999999999,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,4.0,8.0,Pricey,Average
+50011679,ROOT & BONE,0.8476,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,4.0,17.75,Moderate,Average
+50011891,TWO HANDS,0.7271335000000001,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,3.5,27.6,Moderate,Average
+50012158,MEZZROW,0.6630432835820896,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,Yes,4.0,17.5,Moderate,Average
+50013048,THE HAROLD,0.7023095,Yes,No,Full Bar,Yes,No,Yes,No,Yes,No,Yes,Yes,No,3.5,13.25,Moderate,Average
+50013284,SOHO ROOM,0.47469594594594605,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,Yes,No,3.0,24.66666666666667,Moderate,Average
+50013823,MAX FISH,0.3701469387755103,Yes,No,Full Bar,No,No,No,No,Yes,No,No,No,Yes,3.5,13.333333333333336,Inexpensive,Loud
+50014229,AINSWORTH MIDTOWN,0.4504717557251908,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.0,33.8,Moderate,Very Loud
+50015767,THE POLO BAR,0.8517564999999999,Yes,Yes,Full Bar,No,No,No,No,Yes,No,No,Yes,Yes,4.0,10.0,Pricey,Average
+50016081,AUGUST,0.6747,Yes,No,Full Bar,Yes,No,No,No,Yes,No,No,Yes,No,3.5,16.666666666666668,Pricey,Average
+50016346,SHAKE SHACK,0.6565194999999999,Yes,No,Beer & Wine Only,No,No,Yes,No,Yes,Yes,Yes,No,Yes,4.0,18.75,Moderate,Average
+50016740,JIMBO'S HAMBURGERS,0.4313772727272728,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,3.5,10.75,Inexpensive,Average
+50016770,THE MILTON,0.788369,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.0,21.0,Moderate,Average
+50016854,BOCCA BLISS,0.642479104477612,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,3.5,31.16666666666667,Inexpensive,Average
+50017241,6B,0.5758527272727274,Yes,No,Beer & Wine Only,Yes,Yes,Yes,No,No,No,Yes,No,Yes,3.5,36.333333333333336,Moderate,Average
+50017430,Courtyard by Marriott Manhattan Chelsea,0.6415789473684211,Yes,No,No,No,No,No,No,No,No,No,No,Yes,3.5,10.25,Moderate,Average
+50017497,HEERMANCE FARM PURVEYORS,0.7319076923076924,Yes,No,Full Bar,Yes,No,No,No,Yes,Yes,Yes,No,No,3.5,20.0,Moderate,Quiet
+50017582,PARM,0.6200585000000001,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,3.5,15.0,Moderate,Average
+50017810,T.G.I. FRIDAY'S,-0.07176666666666667,Yes,No,Full Bar,No,No,Yes,No,No,No,Yes,Yes,No,1.5,7.0,Moderate,Loud
+50017978,HOLIDAY COCKTAIL LOUNGE,0.6133961165048545,Yes,No,Full Bar,No,No,No,No,No,Yes,No,No,Yes,3.5,16.666666666666668,Moderate,Loud
+50018300,CAFE R,0.4517180000000001,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.0,19.2,Inexpensive,Average
+50018385,THE UP & UP,0.832615,Yes,No,Full Bar,No,No,No,No,Yes,No,No,No,No,4.0,15.333333333333336,Moderate,Average
+50018621,VILLAGE DEN RESTAURANT,0.4776845,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3.5,8.333333333333334,Moderate,Average
+50018800,FRIEDMAN'S,0.7329240000000001,Yes,No,Full Bar,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,4.0,14.75,Moderate,Average
+50018858,NOREETUH,0.9117395,Yes,Yes,Beer & Wine Only,No,No,No,No,Yes,No,No,Yes,No,4.0,12.0,Pricey,Average
+50018895,JUNIPER,0.8263750000000001,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,4.0,13.666666666666664,Moderate,Average
+50018989,FAIRFIELD INN & SUITES PENN STATION,0.6648897435897435,Yes,No,No,No,No,No,No,No,No,No,No,Yes,4.0,11.666666666666664,Moderate,Average
+50032771,WEST SIDE CAFE AND PIZZA,0.21372608695652176,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,2.5,24.4,Inexpensive,Average
+50032827,THE RIBBON,0.7579564999999999,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,3.5,13.666666666666664,Pricey,Average
+50032852,DAILY BAGEL,0.09329574468085107,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,2.5,23.6,Inexpensive,Average
+50032876,TANNER SMITH'S,0.8770344999999999,Yes,No,Full Bar,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,4.0,17.333333333333332,Moderate,Average
+50032938,JOHN DOE BAR & KITCHEN,0.79875,Yes,No,Full Bar,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4.0,15.75,Moderate,Average
+50033151,GOURMET 53,0.7521648351648352,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,4.0,28.4,Inexpensive,Loud
+50033430,BEST WESTERN PREMIER HERALD SQUARE,0.7095618181818182,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,4.0,18.33333333333333,Moderate,Average
+50033434,WING BISTRO,0.3722174603174603,Yes,Yes,Beer & Wine Only,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,3.0,13.75,Moderate,Average
+50033451,INDUSTRY KITCHEN,0.7229869999999999,Yes,Yes,Full Bar,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3.5,19.0,Moderate,Average
+50033694,VIRGINIA'S,0.8204805369127517,Yes,No,Full Bar,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4.0,14.333333333333336,Pricey,Average
+50033791,BENSON'S NYC,0.8654879999999999,Yes,No,Beer & Wine Only,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.5,10.666666666666666,Moderate,Average
+50034065,CLOCKTOWER,0.8476265,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,Yes,4.0,8.25,Pricey,Average
+50034094,BROTHERS BAKERY CAFE,0.5064242424242426,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3.0,12.0,Moderate,Average
+50034275,D.B.A.,0.6398255,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,No,Yes,3.5,18.0,Moderate,Average
+50034567,THE DRAFT HOUSE,0.6781638461538463,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3.5,14.666666666666664,Moderate,Average
+50034739,ELLINGTON IN THE PARK,0.6014474358974358,Yes,No,Full Bar,No,No,Yes,Yes,No,Yes,Yes,No,No,3.5,11.0,Moderate,Average
+50035739,BEC,0.6424655,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.5,8.666666666666666,Moderate,Average
+50035766,SMASHBURGER,0.6168520000000001,Yes,No,Beer & Wine Only,No,Yes,No,No,Yes,Yes,Yes,No,No,3.5,11.666666666666664,Moderate,Average
+50035787,KINOKUNIYA CAFE ZAIYA,0.7254944999999999,Yes,No,No,No,No,No,No,Yes,No,No,No,No,4.5,17.333333333333332,Moderate,Average
+50035825,BOOTS AND SADDLE,0.6725020408163265,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,3.5,22.0,Moderate,Loud
+50036199,NOMO SOHO,0.4281191358024691,Yes,No,No,No,No,No,No,No,No,No,No,Yes,3.0,15.5,Pricey,Average
+50036413,GRAYSON,0.68898125,Yes,No,Full Bar,No,Yes,Yes,No,Yes,No,Yes,No,Yes,4.0,11.5,Moderate,Average
+50036672,BAREBURGER,0.7189635000000001,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,4.0,19.33333333333333,Moderate,Average
+50036696,FRIEDMAN'S,0.7318009999999999,Yes,No,Full Bar,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,4.0,9.333333333333334,Moderate,Average
+50037044,FUKU,0.6809897637795276,Yes,No,Full Bar,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.5,6.5,Moderate,Average
+50037442,WEST END HALL BEER GARDEN,0.564918,Yes,No,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,19.666666666666668,Moderate,Average
+50037614,THE DAISY,0.7168642105263158,Yes,Yes,Full Bar,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,3.5,14.333333333333336,Moderate,Average
+50037961,JAM'S,0.6567569999999999,Yes,No,Full Bar,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,3.5,14.5,Pricey,Average
+50038560,CHIRPING CHICKEN,0.479240625,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,3.0,35.666666666666664,Moderate,Average
+50038684,HARLEM HOOKAH,0.5875819999999999,Yes,No,Full Bar,No,No,Yes,No,Yes,No,No,Yes,Yes,3.0,26.0,Moderate,Loud
+50038846,LOL STAND UP COMEDY,0.5883729999999999,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.0,8.5,Moderate,Average
+50039131,PRET A MANGER,0.4253588235294118,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,3.5,10.0,Moderate,Average
+50039436,PIG N WHISTLE,0.5693432098765433,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,3.5,11.333333333333336,Moderate,Average
+50040257,TILL & SPROCKET,0.6921842465753425,Yes,Yes,Full Bar,Yes,No,No,No,Yes,No,Yes,Yes,Yes,4.0,18.25,Moderate,Average
+50040533,CHELSEA CREAMLINE,0.6660640000000001,Yes,No,Beer & Wine Only,Yes,No,No,No,Yes,No,Yes,No,Yes,4.0,10.5,Moderate,Average
+50040782,SUBWAY INN,0.575173469387755,Yes,No,Full Bar,No,No,Yes,No,No,No,No,No,Yes,3.5,9.5,Moderate,Average
+50040806,EFFY'S KITCHEN,0.7505570652173913,Yes,Yes,Beer & Wine Only,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,4.0,15.0,Moderate,Average
+50041322,CRAVE FISH BAR,0.767366,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4.0,13.333333333333336,Pricey,Average
+50042397,DAN AND JOHNS WINGS,0.7527360000000002,Yes,No,Beer & Wine Only,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,4.5,10.5,Moderate,Average
+50042800,HIGH STREET ON HUDSON,0.752788,Yes,No,Full Bar,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4.0,19.25,Moderate,Average
+50043211,AMERITTANIA,0.6550178861788619,Yes,No,No,No,No,No,No,No,No,No,No,Yes,3.5,9.0,Moderate,Average
+50043664,QUALITY EATS,0.8164655,Yes,No,Full Bar,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4.0,11.0,Pricey,Average
+50043879,VANDAL,0.8182860000000001,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,3.5,16.666666666666668,Pricey,Loud
+50043978,KINGSLEY,0.6809762962962963,Yes,No,Full Bar,No,No,No,Yes,Yes,No,No,Yes,Yes,3.5,29.0,Pricey,Average
+50043979,PFIZER CAFE,0.7933344999999999,Yes,Yes,Full Bar,No,No,No,Yes,Yes,Yes,Yes,No,No,4.0,15.0,Moderate,Average
+50044252,OPEN MARKET,0.3534434782608696,Yes,No,Beer & Wine Only,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,2.5,19.666666666666668,Moderate,Average
+50044287,MUNCHERY,0.5649440476190476,Yes,No,No,No,No,No,No,No,No,Yes,No,No,3.5,8.0,Moderate,Average
+50044340,WENDY'S,0.15360833333333335,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,3.0,10.333333333333334,Inexpensive,Average
+50044480,BEER SHOP,0.7131919999999998,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,4.0,12.0,Moderate,Average
+50044588,GARDEN MARKET,0.7501833333333333,Yes,No,No,No,No,No,No,Yes,No,No,No,No,4.0,3.5,Inexpensive,Average
+50044617,CARNEGIE DELI CATESSEN,0.6987715,Yes,No,Beer & Wine Only,Yes,Yes,No,No,Yes,Yes,Yes,No,No,4.0,7.0,Moderate,Loud
+50044619,GARDEN MARKET,0.7501833333333333,Yes,No,No,No,No,No,No,Yes,No,No,No,No,4.0,1.0,Inexpensive,Average
+50044727,LE TURTLE,0.76551171875,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,4.0,27.0,Pricey,Average
+50044736,GEBHARD'S BEER CULTURE,0.6834038461538463,Yes,No,Beer & Wine Only,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,4.0,15.0,Moderate,Average
+50044902,HOGSHEAD TAVERN,0.8383693181818181,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,Yes,No,Yes,4.5,4.5,Moderate,Average
+50044945,YURA'S BLUE PLATE,0.7807241830065359,Yes,No,Beer & Wine Only,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,4.5,16.75,Moderate,Average
+50045177,ANNIE MOORES PUB & RESTAURANT,0.7278527777777778,Yes,No,Full Bar,No,No,Yes,No,No,Yes,Yes,Yes,Yes,4.0,12.0,Moderate,Loud
+50045332,ROWLAND'S BAR AND GRILL/CHEF STREET,0.6072031746031745,Yes,No,Full Bar,No,No,Yes,No,Yes,No,Yes,Yes,Yes,3.5,21.66666666666667,Moderate,Average
+50045493,GRAND TIER RESTAURANT @ METROPOLITAN OPERA,0.8544390625,Yes,No,Full Bar,Yes,No,No,No,Yes,Yes,No,Yes,No,4.0,27.0,Pricey,Quiet
+50045727,LENWICH,0.4391580882352941,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,3.0,14.5,Inexpensive,Average
+50045771,ASCENT LOUNGE,0.8031983606557377,Yes,No,Full Bar,No,No,Yes,No,No,Yes,No,Yes,Yes,4.5,19.0,Pricey,Average
+50045888,WHITE HORSE TAVERN,0.21832600000000002,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,Yes,No,No,2.5,17.0,Moderate,Average
+50045897,STUDIO 735,0.8059333333333333,Yes,No,Full Bar,No,No,Yes,Yes,No,Yes,No,No,No,4.0,12.0,Moderate,Average
+50045947,SPRINGBONE KITCHEN,0.753729,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,4.0,42.25,Moderate,Average
+50047392,MY BELLY'S PLAYLIST,0.7556980000000002,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,4.0,19.0,Moderate,Average
+50047560,THE HUB,0.72755,Yes,No,Full Bar,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,3.5,18.0,Moderate,Quiet
+50047724,THE BLOND/THE LIBRARY,0.6047135,Yes,No,Full Bar,No,No,Yes,No,Yes,Yes,No,No,No,4.0,9.0,Inexpensive,Loud
+50048244,LOTTE NEW YORK PALACE -4th floor kitchen,0.7790819999999999,Yes,No,No,No,No,No,No,No,No,No,No,Yes,4.0,9.0,Pricey,Average
+50048348,SIDE PARK CAFE,0.6603043478260869,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,3.5,7.5,Moderate,Average
+50048433,FLUFFY'S CAFE & PIZZERIA,0.5136105000000001,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,3.5,36.5,Inexpensive,Average
+50048541,SHAKE SHACK,0.6686964999999999,Yes,No,Beer & Wine Only,No,No,Yes,No,No,Yes,Yes,No,No,4.0,10.0,Moderate,Loud
+50048588,THE BEATRICE INN,0.6024265000000001,Yes,No,Full Bar,No,No,No,No,Yes,Yes,No,Yes,No,3.5,13.0,Pricey,Average
+50049008,TABLETIME,0.6686311111111111,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,4.0,15.0,Moderate,Average
+50049009,COACH,0.7213913043478261,Yes,No,No,No,No,No,No,Yes,No,No,No,No,4.0,14.0,Pricey,Average
+50049229,LENWICH,0.5047961904761905,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.0,13.333333333333336,Inexpensive,Average
+50049236,HAMILTON'S BAKERY,0.6940145454545456,Yes,Yes,Beer & Wine Only,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,4.0,12.5,Moderate,Average
+50049372,LE PAIN QUOTIDIEN,0.24097916666666666,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,3.0,9.0,Moderate,Average
+50051486,STATE GRILL AND BAR,0.7563824561403508,Yes,No,Full Bar,Yes,No,No,No,Yes,No,No,Yes,Yes,4.0,5.0,Pricey,Quiet
+50051577,GUYERS,0.5764775510204081,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,3.5,25.0,Moderate,Quiet
+50052588,HENDRIKS,0.7506579999999999,Yes,No,Full Bar,No,Yes,No,No,Yes,Yes,Yes,Yes,No,4.0,23.33333333333333,Moderate,Average
+50052875,SCHNIPPERS,0.5644,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,3.5,9.0,Moderate,Average
+50053557,LENWICH,0.1933875,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,2.5,7.0,Moderate,Average
+50054344,BROADSTONE BAR & KITCHEN,0.7196147058823529,Yes,Yes,Full Bar,No,No,Yes,No,No,Yes,Yes,Yes,Yes,4.0,13.0,Moderate,Average
+50055081,ANDAZ 5TH AVENUE,0.8163855,Yes,No,No,No,No,No,No,No,No,No,No,Yes,4.0,32.0,Pricey,Average
+50055248,BELLE,0.8612019607843138,Yes,No,No,No,No,No,No,Yes,No,No,No,No,5.0,9.0,Moderate,Average
+50056063,POP & POUR,0.9040136986301368,Yes,No,Beer & Wine Only,No,No,No,No,Yes,No,Yes,Yes,Yes,4.5,7.0,Moderate,Quiet
+50056649,FIELDS GOOD CHICKEN,0.7594227272727272,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3.5,12.0,Moderate,Average
+50056653,MUSCLE MAKER GRILL,0.4185068965517242,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,3.0,17.5,Moderate,Average
+50056770,ESSEN,0.14927647058823526,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,2.5,11.5,Moderate,Average
+50056916,SHORTY'S,0.6646325000000001,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,4.0,12.0,Moderate,Average
+50056930,TUBBY HOOK TAVERN,0.6830089887640449,Yes,No,Full Bar,No,No,Yes,Yes,Yes,Yes,No,No,Yes,3.5,13.0,Moderate,Average
+50056993,CIVIC DELI,0.6203274509803922,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,3.5,29.0,Inexpensive,Average
+50057029,Loring Place,0.8769794999999999,Yes,No,Full Bar,No,No,No,No,Yes,No,No,Yes,No,4.5,12.0,Pricey,Average
+50057093,WESTVILLE WALL STREET,0.7295060869565216,Yes,No,Full Bar,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4.0,7.0,Moderate,Very Loud
+50057253,CHAMPIGNON CAFE,0.6594725,Yes,Yes,Full Bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.5,12.5,Moderate,Average
+50057332,ANTICA,0.6017185,Yes,No,Full Bar,Yes,Yes,No,No,Yes,No,No,Yes,Yes,3.5,26.5,Pricey,Average
+50058045,POST,0.8680538011695907,Yes,No,Full Bar,Yes,No,No,No,Yes,Yes,Yes,No,Yes,4.5,9.0,Moderate,Average
+50058170,GREEN APPLE GOURMET,0.4272318181818181,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,3.5,42.0,Moderate,Average
+50059202,NICKEL AND DINER,0.7636105000000001,Yes,No,Full Bar,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,4.0,27.66666666666667,Moderate,Average
+50059435,GARDEN GRILL & BAR,0.407159375,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,3.0,11.0,Inexpensive,Average
+50059675,MAGNOLIA RESTAURANT,0.5271888888888889,Yes,Yes,Full Bar,No,No,Yes,Yes,No,Yes,No,Yes,Yes,3.5,25.5,Moderate,Average
+50059751,WATTLE CAFE,0.6947126050420168,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,4.0,12.0,Moderate,Quiet
+50059993,SEAMORE'S,0.732114598540146,Yes,No,Full Bar,No,Yes,No,Yes,Yes,No,Yes,Yes,No,3.5,13.0,Moderate,Average
+50060220,CAFE KABILA,0.7160260869565216,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.0,15.0,Moderate,Average
+50060258,HOLE IN THE WALL,0.8061229999999999,Yes,No,Full Bar,Yes,No,No,Yes,No,Yes,Yes,No,Yes,4.0,20.0,Moderate,Average
+50060989,CAROL'S CAFE,0.8645916666666668,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,4.5,4.0,Inexpensive,Quiet
+50061032,WHITE & CASE CAFE,0.17853636363636366,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,2.5,10.0,Inexpensive,Loud
+50061531,RENAISSANCE HARLEM,0.7736916666666667,Yes,No,Full Bar,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4.0,32.0,Pricey,Average
+50062385,STARBUCKS COFFEE,0.29034166666666666,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,3.0,12.0,Inexpensive,Average
+50063152,TSQ FOOD COURT,0.6574222222222221,Yes,No,Beer & Wine Only,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,5.0,37.0,Inexpensive,Average
+50063170,MADE NICE,0.8051115,Yes,No,Beer & Wine Only,Yes,No,No,No,Yes,No,Yes,No,No,4.0,12.0,Moderate,Average
+50063500,BEDFORD & CO,0.7573092592592593,Yes,No,Full Bar,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4.0,33.5,Pricey,Average
+50063625,UTOPIA RESTAURANT,0.3761865497076024,Yes,No,Beer & Wine Only,No,Yes,No,No,Yes,Yes,Yes,No,No,2.5,24.0,Moderate,Average
+50064551,THE CROWN,0.6622056074766355,Yes,No,Full Bar,No,No,No,Yes,Yes,No,No,No,Yes,3.5,7.0,Moderate,Average
+50065904,BARROW STREET ALE HOUSE,0.5547775280898876,Yes,No,Full Bar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.0,31.5,Moderate,Average
+50066463,53RD GOURMET DELI,0.29707818181818185,Yes,No,Beer & Wine Only,Yes,Yes,No,Yes,No,Yes,Yes,No,No,3.0,10.0,Moderate,Average
+50066902,HILTON GARDEN INN,0.7055052631578947,Yes,No,No,No,No,No,No,No,No,No,No,Yes,4.0,9.0,Moderate,Average
+50066911,CAFE WATER,0.4181,Yes,No,Beer & Wine Only,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,3.0,26.0,Moderate,Average
+50066928,JIA NYC,0.8922820512820513,Yes,No,Beer & Wine Only,Yes,No,Yes,No,Yes,No,Yes,Yes,No,4.5,5.0,Moderate,Average
+50067236,AMERICAN RETRO BAR & GRILL,0.6712364102564103,Yes,No,Full Bar,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,4.0,10.0,Moderate,Average
+50067589,LOCAL LEAF,0.7236938271604938,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,4.0,37.0,Moderate,Average
+50067685,BLUESTONE LANE,0.707414,Yes,Yes,Beer & Wine Only,Yes,No,No,Yes,Yes,Yes,Yes,No,No,4.0,23.0,Moderate,Average
+50068152,NEW YORK HILTON / BANQUET KITCHEN,0.35592050000000003,Yes,No,No,No,No,No,No,No,No,No,No,Yes,2.5,45.0,Pricey,Average
+50069015,FRYGUYS,0.6264944444444445,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,3.5,19.0,Moderate,Average
+50069682,COOK EATERY,0.1697064516129032,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,2.5,26.0,Moderate,Average
+50070180,SAM'S DELI,0.76672,Yes,No,Beer & Wine Only,No,Yes,No,No,Yes,No,Yes,No,Yes,4.0,0.0,Inexpensive,Quiet
+50072021,DUNKIN DONUTS,-0.13032500000000002,Yes,No,No,No,No,No,No,No,No,Yes,No,No,2.0,19.0,Inexpensive,Average
+50072059,DIG INN,0.787657142857143,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,4.5,8.0,Moderate,Average
+50072414,MUSCLE MAKER GRILL,0.35797333333333337,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,3.0,64.0,Moderate,Average
+50073766,JOE JR RESTAURANT,0.7246690000000001,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,4.0,12.0,Inexpensive,Average
+50074809,MOONSTRUCK EATERY,0.4171127659574467,Yes,No,Beer & Wine Only,No,Yes,Yes,No,Yes,Yes,Yes,No,No,3.0,36.0,Moderate,Average
+50076092,CAFE DELICE,0.8170445000000001,Yes,No,Full Bar,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4.0,37.0,Moderate,Average

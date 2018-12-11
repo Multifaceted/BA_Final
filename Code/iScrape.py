@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 25 19:35:14 2018
+
+@author: Qitian Ma
+"""
+
 def fetch_restaurant(restaurant_name, location_name):
    
     """
@@ -33,8 +41,8 @@ def fetch_restaurant(restaurant_name, location_name):
     from fuzzywuzzy import fuzz
     import pandas as pd
     import numpy as np
-    import time
     import requests
+    import time
     
     proxies = {'http': 'http://qitianma:1q2w3e4r@us-wa.proxymesh.com:31280',
                'https': 'http://qitianma:1q2w3e4r@us-wa.proxymesh.com:31280'}
